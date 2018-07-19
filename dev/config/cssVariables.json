@@ -1,0 +1,19 @@
+{
+	"variables": {
+		"global-font-color": "#333",
+		"global-font-family": "'Open Sans', sans-serif;",
+    	"global-font-size": "20",
+    	"global-font-line-height": "1.4",
+      "highlight-font-family": "'Raleway', sans-serif;",
+      "title-font-family": "'Pacifico', cursive;",
+    	"content-width": "100",
+    "dropdown-symbol-width": "0.7em",
+    "theme-background-color": "#41848f"
+	},
+	"queries": {
+    	"narrow-menu-query": "screen and (max-width: 37.5em)",
+    	"wide-menu-query": "screen and (min-width: 37.5em)",
+    	"content-query": "screen and (min-width: 48em)",
+    	"sidebar-query": "screen and (min-width: 60em)"
+	}
+}
