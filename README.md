@@ -133,4 +133,5 @@ The CSS philosophy of WP Rig breaks down as follows:
 WP Rig is released under [GNU General Public License v3.0](https://github.com/wprig/wprig/blob/master/LICENSE).
 #   s k y e c r u e r i g  
  #   s k y e c r u e r i g  
+ #   s k y e c r u e r i g  
  
